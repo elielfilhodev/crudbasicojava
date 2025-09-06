@@ -104,7 +104,3 @@ DELETE /usuario?email=joao@email.com
 
 👨‍💻 Autor
 Eliel Filho
-
-👉 Esse modelo já tem **badges**, links clicáveis e fica com cara de **projeto profissional de portfólio**.  
-
-Quer que eu monte também uma **collection do Postman** para você já deixar linkada no 
